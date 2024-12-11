@@ -22,8 +22,7 @@ This project implements an anomaly detection system using **One-Class SVM** to i
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone (https://github.com/Supratim2109/Network_Traffic_Anomaly_Detection.git)
    ```
 
 2. **Install Dependencies**:
